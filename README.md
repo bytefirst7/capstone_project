@@ -12,6 +12,8 @@ Classify the expected time window for the next earthquake based on historical pa
 **Data Source**
 To address this question, I will collect seismic activity data from the [Pacific Northwest Seismic Network](https://www.pnsn.org/), a trusted and comprehensive resource for earthquake monitoring in the region. The dataset will include:
 
+[Full Dateset](https://www.pnsn.org/events?mag_min=&mag_max=&date_start=1990-01-01&date_end=2025-08-19&custom-ui=circle&lat_min=&lat_max=&lon_min=&lon_max=&city_center=&lat_center=45.78943&lon_center=-121.47817&radius=586753.37195&depth_min=-5&depth_max=1000&etypes%5B%5D=le&etypes%5B%5D=re&etypes%5B%5D=lf&gap_max=&distance=&phase_min=&s_phase_min=&rms_max=&sort_by=event_time_utc&order=desc)
+
 - Timestamped seismic events
 - Magnitude and depth of each event
 - Geographic coordinates
