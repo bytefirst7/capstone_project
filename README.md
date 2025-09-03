@@ -10,13 +10,12 @@ Given a dataset of seismic activity in the Seattle area, develop a predictive mo
 Classify the expected time window for the next earthquake based on historical patterns, magnitude trends, and other relevant geophysical indicators.
 
 **Data Source**
-To address this question, I will collect seismic activity data from the https://www.pnsn.org/ Pacific Northwest Seismic Network (PNSN) Links to an external site., a trusted and comprehensive resource for earthquake monitoring in the region. The dataset will include:
+To address this question, I will collect seismic activity data from the [Pacific Northwest Seismic Network](https://www.pnsn.org/), a trusted and comprehensive resource for earthquake monitoring in the region. The dataset will include:
 
 - Timestamped seismic events
 - Magnitude and depth of each event
 - Geographic coordinates
 - Fault line proximity and tectonic context
-- Historical frequency and clustering patterns
 
 **Modeling Techniques**
 To explore the predictive landscape thoroughly, I will implement and compare three distinct modeling approaches:
